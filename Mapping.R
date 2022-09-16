@@ -1,6 +1,7 @@
 library('raster')
 library('ncdf4')
 library('sf')
+library('ggplot2')
 
 nc_file <- 'C:/Users/jackk/OneDrive/Documents/Thesis Work/Mackenzie Delta/ANHA4_mesh_mask.nc'
 #nc_ras <- brick(nc_file)
